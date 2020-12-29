@@ -1,0 +1,30 @@
+@import"reset.css";
+@import"status-bar.css";
+@import"login.css";
+@import "variables.css";
+@import"nav-bar.css";
+@import"screen-header.css";
+@import"friends.css";
+@import"user-component.css";
+@import"badge.css";
+@import"find.css";
+@import"icon-row.css";
+@import"more.css";
+@import"alt-screen-header.css";
+@import"settings.css";
+@import"chat-room.css";
+@import"no-mobile.css";
+
+
+
+body{
+    color: #2e363e;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+.main-screen {
+    padding: 0px var(--horizontal-space);
+   
+}
+
